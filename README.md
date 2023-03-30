@@ -1,4 +1,7 @@
  <h1>Website Login And Register Page Using HTML CSS JavaScript</h1>
+ 
+ <h2>#Register...</h2>
+ a href="https://lucky5isuru.github.io/Website-Login-And-Register-Page-Using-HTML-CSS-JavaScript/"><img src="Live Preview" />
 
   <p align="center">
   <h2>#Login...</h2>
