@@ -1,7 +1,7 @@
  <h1>Website Login And Register Page Using HTML CSS JavaScript</h1>
 <p align="center">
-<h2>#Register...</h2>
- <a href="[url](https://lucky5isuru.github.io/Website-Login-And-Register-Page-Using-HTML-CSS-JavaScript/)">Live Preview</a>
+<h2>Live Preview...</h2>
+ <a href="https://lucky5isuru.github.io/Website-Login-And-Register-Page-Using-HTML-CSS-JavaScript/">Live Preview</a>
 </p>
 
 <p align="center">
